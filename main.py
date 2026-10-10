@@ -1,8 +1,8 @@
 import urllib.request
 
 SOURCES = [
-    "https://raw.githubusercontent.com/awesome-vpn/free-v2ray/master/v2ray",
-    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix"
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix",
+    "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt"
 ]
 
 def fetch_configs():
